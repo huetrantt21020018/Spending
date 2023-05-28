@@ -18,5 +18,12 @@
         android:text="@string/spendSubtitle"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
+    <Button
+        android:id="@+id/spendButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/spendButton" />
+
 
 </RelativeLayout>
