@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Spending.1.0</string>
+    <string name="spendTitle">Add expenses</string>
+    <string name="spendSubtitle">Select payment method</string>
 </resources>
